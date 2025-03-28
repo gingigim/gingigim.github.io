@@ -14,3 +14,8 @@ unsafe = true
 
 [markup.tableOfContents]
 startLevel = 1
+
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
